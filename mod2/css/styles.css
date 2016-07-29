@@ -25,6 +25,8 @@ h1 {
   top:0px;
   right:0px;
   padding: 10px 0px 10px 0px;
+   margin-top: -1px;
+ margin-right: -1px;
 }
 
 #t2 {
@@ -38,6 +40,8 @@ h1 {
   top:0px;
   right:0px;
   padding: 10px 0px 10px 0px;
+   margin-top: -1px;
+ margin-right: -1px;
 }
 
 #t3 {
@@ -51,6 +55,8 @@ h1 {
   top:0px;
   right:0px;
   padding: 10px 0px 10px 0px;
+   margin-top: -1px;
+ margin-right: -1px;
 }
 
 .div {
